@@ -1,0 +1,14 @@
+ThreeAxisArmKinematics KEYWORD1
+
+forwardKinematics KEYWORD1
+inverseKinematics KEYWORD1
+getPosition KEYWORD1
+getAngles KEYWORD1
+
+shoulderJointLength KEYWORD2
+elbowJointLength KEYWORD2
+baseJointOffset KEYWORD2
+shoulderJointOffset KEYWORD2
+coords KEYWORD2
+angles KEYWORD2
+Pi KEYWORD2
